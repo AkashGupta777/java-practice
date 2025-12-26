@@ -16,4 +16,4 @@ sum = a + b + c;
   sc.close();
     }
     
-}
+} my code
